@@ -1,10 +1,10 @@
-# 🔥 Basic Heater Control System – upliance.ai Assignment
+# Basic Heater Control System – upliance.ai Assignment
 
 This project is a simulation of a temperature-based heater control system, designed as part of the Embedded Systems Internship assignment for upliance.ai. It demonstrates state tracking, temperature-based actuation, and visual/audible feedback using basic components.
 
 ---
 
-## 🧠 Features
+## Features
 
 ✅ Continuously reads temperature using DS18B20 sensor  
 ✅ Controls a simulated heater (LED) based on temperature thresholds  
@@ -20,7 +20,7 @@ This project is a simulation of a temperature-based heater control system, desig
 
 ---
 
-## 🧰 Components Used (in Wokwi)
+## Components Used (in Wokwi)
 
 - Arduino Uno  
 - DS18B20 temperature sensor  
@@ -31,7 +31,7 @@ This project is a simulation of a temperature-based heater control system, desig
 
 ---
 
-## 🪛 Circuit Overview
+## Circuit Overview
 
 **DS18B20 Wiring:**
 
@@ -50,28 +50,28 @@ This project is a simulation of a temperature-based heater control system, desig
 
 ---
 
-## 🧪 How to Test
+## How to test this?
 
 1. Open the project in Wokwi.  LINK:([https://wokwi.com/](https://wokwi.com/projects/436737721879823361))
-2. Simulate the circuit
-3. Click the DS18B20 sensor to change the temperature
+2. Simulate the circuit drawn
+3. Click the DS18B20 sensor to change the temperature status
 4. Observe the LED and buzzer behavior
 5. Open the Serial Monitor to see live logs
 
 ---
 
-## 🧱 Project Architecture
+## Project Architecture
 
 <img width="794" height="648" alt="image" src="https://github.com/user-attachments/assets/836218e0-eb45-459e-8857-508cd894634c" />
 
 
 ---
 
-## 🏁 Project Status
+## Project Status
 
-✅ Core functionality implemented  
-✅ Bonus feature: Buzzer feedback  
-🟡 FreeRTOS and BLE not implemented (optional scope)
+Core functionality implemented  
+Bonus feature: Buzzer feedback  
+FreeRTOS and BLE not implemented (optional scope)
 
 
 
