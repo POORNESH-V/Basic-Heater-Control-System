@@ -60,7 +60,7 @@ This project is a simulation of a temperature-based heater control system, desig
 
 ---
 
-## Project Architecture
+## Circuit diagram (Architecture)
 
 <img width="794" height="648" alt="image" src="https://github.com/user-attachments/assets/836218e0-eb45-459e-8857-508cd894634c" />
 
@@ -69,9 +69,9 @@ This project is a simulation of a temperature-based heater control system, desig
 
 ## Project Status
 
-Core functionality implemented  
-Bonus feature: Buzzer feedback  
-FreeRTOS and BLE not implemented (optional scope)
+1. Core functionality implemented  
+2. Bonus feature: Buzzer feedback  
+3. FreeRTOS and BLE not implemented (optional scope)
 
 
 
