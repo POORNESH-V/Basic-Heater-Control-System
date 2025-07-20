@@ -52,7 +52,7 @@ This project is a simulation of a temperature-based heater control system, desig
 
 ## 🧪 How to Test
 
-1. Open the project in [Wokwi](https://wokwi.com/)
+1. Open the project in Wokwi.  LINK:([https://wokwi.com/](https://wokwi.com/projects/436737721879823361))
 2. Simulate the circuit
 3. Click the DS18B20 sensor to change the temperature
 4. Observe the LED and buzzer behavior
